@@ -1,2 +1,2 @@
 # **HPUtter**
-> A repo for utterances in my H.P.
+> A repo for utterances in my homepage. 
